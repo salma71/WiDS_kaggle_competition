@@ -1,5 +1,9 @@
 # DATA698 Project Propsal
 
+*Data Source
+
+https://www.kaggle.com/c/widsdatathon2021/data
+
 *Description of the problem*
 
 The ability to obtain a rapid understanding of the context of a patient’s overall health can be crucial to medical outcomes. Patients go to hospitals for a variety of reasons. These reasons range from benign to severe and the state of patients can also range from alert to unconscious. Gathering information that is important for treatment requires processing of patient data but the lack of verified medical histories and the structural inefficiencies of obtaining medical records that take days to transfer pose a problem for medical staff who would benefit from quickly knowing the presence of certain chronic conditions such as heart disease, injuries, or diabetes in a patient. Additionally, patients can also be uncooperative or untruthful and withhold information. For these reasons, the ability to detect chronic condition from basic data can be of great value to make informed clinical decisions. 
