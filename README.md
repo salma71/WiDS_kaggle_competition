@@ -14,6 +14,6 @@ This year's challenge will focus on models to determine whether a patient admitt
 > The executable notebook is publically is available as a Kaggle notebook
 
 ## Project roadmap
-    - [Project roadmap at atlassian](https://wids.atlassian.net/jira/software/projects/WIDS/boards/1/roadmap)
+    - ![Project roadmap at atlassian](https://wids.atlassian.net/jira/software/projects/WIDS/boards/1/roadmap)
 
-    - [Project requirements](https://wids.atlassian.net/wiki/spaces/WIDS/pages/425985/2021-02-18+Product+requirements)
+    - ![Project requirements](https://wids.atlassian.net/wiki/spaces/WIDS/pages/425985/2021-02-18+Product+requirements)
